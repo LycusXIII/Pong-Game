@@ -2,7 +2,7 @@
 
 ### **Project Description**
 
-This Python project implements a classic Pong game using the Turtle graphics library. Where 2 players control the one paddle on each side of the screen to stop the ball from going behind there paddle and giving the other player 1 point, the ball speeds increase the longer the game goes on.
+This Python project implements a Pong game using the Turtle graphics library. Where 2 players control the one paddle on each side of the screen to stop the ball from going behind there paddle and giving the other player 1 point, the ball speeds increase the longer the game goes on.
 
 ### **Getting Started**
 
